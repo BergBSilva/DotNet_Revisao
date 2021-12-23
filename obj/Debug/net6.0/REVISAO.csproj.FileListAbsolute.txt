@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\obj\Debug\net6.0\REVISAO.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\obj\Debug\net6.0\REVISAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\obj\Debug\net6.0\REVISAO.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\obj\Debug\net6.0\REVISAO.AssemblyInfo.cs
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\obj\Debug\net6.0\REVISAO.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\bin\Debug\net6.0\Revisao.exe
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\bin\Debug\net6.0\Revisao.deps.json
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\bin\Debug\net6.0\Revisao.runtimeconfig.json
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\bin\Debug\net6.0\Revisao.dll
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\bin\Debug\net6.0\ref\Revisao.dll
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\bin\Debug\net6.0\Revisao.pdb
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\obj\Debug\net6.0\Revisao.dll
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\obj\Debug\net6.0\ref\Revisao.dll
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\obj\Debug\net6.0\Revisao.pdb
+C:\Users\Work\Documents\CSharp\Introdução dotnet\REVISAO\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
